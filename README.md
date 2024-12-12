@@ -3,9 +3,7 @@
 ### A ROS2 framework for DRL autonomous navigation on mobile robots with LiDAR.
 <p float="left">
  <img src="media/simulation.gif" width="400">
- <img src="media/physical_demo.gif" width="216" alt="physical_demo.gif" />
-</p>
-
+ 
 
 # **Table of contents**
 * [Introduction](#introduction)
